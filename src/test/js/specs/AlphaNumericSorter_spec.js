@@ -63,7 +63,7 @@ describe(
 		
 			it('' + a + ' ' + strResultatAttendu + ' ' + b, function() {
 				
-				var resultatObtenu = stringNumericSorter.compareChaineDeCaractere(a,b);
+				var resultatObtenu = AlphaNumericSorter.prototype.bind.compareChaineDeCaractere(a,b);
 				var resultatAttendu = strResultatAttendu;
 				
 				switch(resultatAttendu) {
