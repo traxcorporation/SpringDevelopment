@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringWeb/web/com.springsource.org.apache.commons.fileupload-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringWeb/web/com.springsource.org.apache.commons.httpclient-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringWeb/web/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringWeb/web/org.springframework.oxm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringWeb/web/org.springframework.web.portlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringWeb/web/org.springframework.web.servlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringWeb/web/org.springframework.web.struts-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringWeb/web/org.springframework.web-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringCore/core/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringCore/core/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringCore/core/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringCore/core/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringCore/core/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringCore/core/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringCore/core/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/SpringCore/core/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ytraore/Documents/JarSpringMVC/springjars/jstl-1.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
