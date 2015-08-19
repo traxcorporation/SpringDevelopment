@@ -1,1 +1,4 @@
+springapp\web\services\SimpleProductManager.class
+springapp\web\services\ProductManager.class
+springapp\web\domains\Product.class
 springapp\web\HelloController.class

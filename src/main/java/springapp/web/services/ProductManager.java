@@ -1,5 +1,9 @@
 package springapp.web.services;
 
+/**
+ * @author ytraore
+ */
+
 import java.io.Serializable;
 
 import springapp.web.domains.Product;
